@@ -13,4 +13,9 @@
 ![Fiddler](https://img.shields.io/badge/fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=green)
 ![Bash](https://img.shields.io/badge/bash-090909?style=for-the-badge&logo=bash&logoColor=47C5FB)
 
-Follow Me
+### Follow Me
+
+[![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D)](https://t.me/sancho_22)
+[![LinkedIn](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexander-petrov-897bba266/)
+[![vkontakte](https://img.shields.io/badge/vkontakte-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/id162062393)
+[![Instagram](https://img.shields.io/badge/instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/p.e.r.r.y_228)
