@@ -19,3 +19,5 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexander-petrov-897bba266/)
 [![vkontakte](https://img.shields.io/badge/vkontakte-090909?style=for-the-badge&logo=VK&logoColor=4F7DB3)](https://vk.com/id162062393)
 [![Instagram](https://img.shields.io/badge/instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/p.e.r.r.y_228)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Studenboy1)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
