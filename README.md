@@ -1,6 +1,6 @@
 [![Header](https://github.com/Studentboy1/Studentboy1/blob/main/assets/Prew.png)]()
 
-## I'm a beginner QA Engeneer and student at Tver State Agricultural Academy
+## I'm a beginner QA Engineer and student at Tver State Agricultural Academy
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
