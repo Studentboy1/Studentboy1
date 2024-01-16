@@ -20,7 +20,6 @@
 
 -[Bugs](https://github.com/Studentboy1/Bugs.git)
 
--[SQL Collection](https://github.com/Studentboy1/SQL-Collection.git)
 
 -[Postman Collection](https://github.com/Studentboy1/Postman-Collection.git)
 
