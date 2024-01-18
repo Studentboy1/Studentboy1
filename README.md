@@ -12,6 +12,7 @@
 ![Postman](https://img.shields.io/badge/postman-090909?style=for-the-badge&logo=postman&logoColor=orange)
 ![Fiddler](https://img.shields.io/badge/fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=green)
 ![Bash](https://img.shields.io/badge/bash-090909?style=for-the-badge&logo=bash&logoColor=47C5FB)
+![HTML](https://img.shields.io/badge/html-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
 
 ### Testing Documentation
 -[Checklists](https://github.com/Studentboy1/Checklists.git)
