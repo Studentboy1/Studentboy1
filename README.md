@@ -2,6 +2,9 @@
 
 ## I'm a beginner QA Engineer and student at Tver State Agricultural Academy
 
+## My CV
+[Link to my CV](https://drive.google.com/file/d/1sxiqt6Xl9sS3hU1v-YN4BwSLkvuqB4cT/view?usp=sharing)
+
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
 ![Sql](https://img.shields.io/badge/Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
